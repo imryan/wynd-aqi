@@ -8,5 +8,5 @@
 
 class Secrets {
     
-    static let BASE_URL = "http://aqimap.hellowynd.com:8000/api/air/closestStation"
+    static let BASE_URL = ""
 }
